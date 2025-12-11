@@ -1,2 +1,0 @@
-# Sales-Analysis
-demo
