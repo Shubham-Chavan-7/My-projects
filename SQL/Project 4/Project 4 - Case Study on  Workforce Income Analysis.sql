@@ -205,7 +205,7 @@ GO
 /*===========================================================
  TASK 8
  Salary updates for 2024 based on % increases by experience
- level (example percentages – adjust as required)
+ level (example percentages â€“ adjust as required)
 ===========================================================*/
 UPDATE dbo.workforce_salaries
 SET salary_in_usd = salary_in_usd *
